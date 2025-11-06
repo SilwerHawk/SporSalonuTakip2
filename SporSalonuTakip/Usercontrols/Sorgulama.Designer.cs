@@ -253,6 +253,7 @@
             btn_UyeSorgula.TabIndex = 21;
             btn_UyeSorgula.Text = "Sogula";
             btn_UyeSorgula.UseVisualStyleBackColor = false;
+            btn_UyeSorgula.Click += btn_UyeSorgula_Click_1;
             // 
             // cmb_UyeSorgu
             // 
